@@ -12,7 +12,11 @@ Vídeo demo:
 Apk teste 1.0.0
 - https://appdistribution.firebase.dev/i/6d4946ca3d4debb8 
 
-##Telas
+
+
+## Telas
+
+
 
 ![Imagem do WhatsApp de 2024-11-30 à(s) 20 06 22_fd713af8](https://github.com/user-attachments/assets/55048b5b-34ac-44c3-b7ef-e9461919b6d7)
 ![Imagem do WhatsApp de 2024-11-30 à(s) 20 06 22_48e816df](https://github.com/user-attachments/assets/9014943b-4957-4ae4-b534-dfcf9b791006)
