@@ -1,19 +1,16 @@
 # todo_list
+APP todo A3 UC Usabilidade, desenvolvimento web, mobile e jogos.
 
-A new Flutter project.
+## Documentação
 
-## Getting Started
-
-Antes de rodar use o "flutterfire configure" para inicar o firebase.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+PDF
+- https://drive.google.com/file/d/1UuqbI_I8KnwUi1fhyk8LUDRmLuP11RzZ/view
+  
+Vídeo demo:
+- https://www.youtube.com/watch?v=TxU03Nzh17g&ab_channel=RonildoSantosdaSilva
+  
+APK
+- 
 
 ##Telas
 
