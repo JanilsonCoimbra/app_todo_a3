@@ -9,8 +9,8 @@ PDF
 Vídeo demo:
 - https://www.youtube.com/watch?v=TxU03Nzh17g&ab_channel=RonildoSantosdaSilva
   
-APK
-- 
+Apk teste 1.0.0
+- https://appdistribution.firebase.dev/i/6d4946ca3d4debb8 
 
 ##Telas
 
